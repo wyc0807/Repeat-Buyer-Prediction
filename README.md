@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Code:
 
-      - sql
+- sql
 
 In total, 18 sql files, which include: 
 1) put csv data into DB, 
@@ -10,7 +10,7 @@ In total, 18 sql files, which include:
 3) add/delete/change columns, 
 4) compute features 
 
-     - python
+- python
 
 1) FILLmissing.py
 We fill missing values in user demographic information, e.g. age_range, gender. 
