@@ -1,0 +1,2 @@
+alter table train_ui_up_mp_um_double_pca_sim_slope
+drop column gender;
